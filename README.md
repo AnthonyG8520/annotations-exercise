@@ -2,7 +2,7 @@
 
 # Installation
 
-1. Fork this repository.
+1. Fork this repositor.
 1. Clone your fork using IntelliJ.
 
 ## Configuration
